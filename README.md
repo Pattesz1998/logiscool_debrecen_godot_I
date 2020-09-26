@@ -16,7 +16,9 @@ Godot Engine telepítése a gépekre
 
 ## 2. alkalom: 2020. szeptember 25.
 Első GDScript megírása + Leeső test megállítása egy statikus test segítségével
+- óra eleji ismétlés (első órai program továbbfejlesztése) - megírjuk, hogy a lefelé eső tárgyunk, egy másik (statikus tárggyal) való ütközés során nem esik tovább, azonban a fizika továbbra is hat rá.
 - ezen az órán elkezdjük használni a Godot beépített programozási nyelvét a GDScriptet
 - első script megírása (változók felvétele, kiíratása var, print)
 - Kérdések és választok + óra végi project hibajavítások
 
+Utolsó frissítés / Last Updated: 2020.09.26 (16:53)
