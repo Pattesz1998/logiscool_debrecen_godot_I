@@ -21,4 +21,4 @@ Első GDScript megírása + Leeső test megállítása egy statikus test segíts
 - első script megírása (változók felvétele, kiíratása var, print)
 - Kérdések és választok + óra végi project hibajavítások
 
-AAAAAAAAAAAAAAAAAAAAAAAAA
+Utolsó módosítás: 2020.11.26
